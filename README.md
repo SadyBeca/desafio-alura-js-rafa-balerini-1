@@ -6,8 +6,6 @@ Desafio Allura #7-days-of-code by Rafa Balerini usando JavaScript, ainda em cons
 | -------------  | --- |
 | :sparkles: Nome        | **#7DaysOfCode**
 | :label: Tecnologias | JavaCript (tecnologias utilizadas)
-| :rocket: URL         | 
-| :fire: Desafio     | ![](https://7daysofcode.io/matricula/logica-programacao)
-
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
+| :rocket: URL         | ![GitHub Pages](https://sadybeca.github.io/desafio-alura-js-rafa-balerini-1/)
+| :fire: Desafio     | ![Clique aqui para se inscrever no desafio você mesmo!](https://7daysofcode.io/matricula/logica-programacao)
 
